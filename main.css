@@ -1,7 +1,11 @@
 *{
 	background-color: #669999;
+	margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+
 }
-.header{
+header{
   text-align: center;
   text-decoration: underline;
   font-family: sans-serif; 
@@ -17,9 +21,8 @@
   ;
 }
 
-address{
-  color: blue;
-  font-size: 12px;
+.address{
+  font-size: 18px;
 }
 .education{
      text-indent: px;
